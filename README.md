@@ -1,2 +1,2 @@
 # aichan
-pictures
+pictures и НИЧЕГО больше
